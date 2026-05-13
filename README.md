@@ -1,3 +1,5 @@
+# NOTE: This program is archived and a new version will be written from the ground up using Terminal.GUI as a UI backend, and a new backend structure that will hopefully not be as rigid as this one lol.
+
 ## About
 Centi is a console text editor like Nano or Vim. You can open, search, edit and save files.
 
