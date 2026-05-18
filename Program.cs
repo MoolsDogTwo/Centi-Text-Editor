@@ -9,7 +9,7 @@ class Program
 {
     /* Variables */
     
-    private const string Version = "1.0";
+    private const string Version = "1.1";
     public static List<Buffer> BufferStack = [];
     private static int _currentBuffer = 0;
     public const int ScrContentsPadding = 1;

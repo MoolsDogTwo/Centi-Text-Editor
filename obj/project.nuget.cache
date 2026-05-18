@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "PXAQQ3ijS0RbKls5z1roNpDDSdU0NXz0idlOlEe+SKkCbl0VN2GMxD1z6rENf5OFcGRJT7KD+TxfsR19oJR9Tw==",
+  "dgSpecHash": "1IBv8lu4pFA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aleksandar Milovic\\RiderProjects\\Centi\\Centi Text Editor.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Aleksandar Milovic\\RiderProjects\\Centi-Text-Editor\\Centi Text Editor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleksandar Milovic\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\Aleksandar Milovic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\Aleksandar Milovic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.27\\microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\Aleksandar Milovic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.27\\microsoft.netcore.app.host.win-x64.8.0.27.nupkg.sha512"
+  ],
   "logs": []
 }
