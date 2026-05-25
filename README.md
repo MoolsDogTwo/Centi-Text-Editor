@@ -1,7 +1,8 @@
 # NOTE:
 Version 1.1 is a complete rewrite of the entire program from the ground up. As of now,
 many of the features from 1.0 will be incomplete or missing entirely. So I do not recommend running this version until
-this message says so, I am only pushing this to github for backup purposes.
+this message says so, I am only pushing this to github for backup purposes. As of this commit, this program is not usable
+at all.
 
 ## About
 Centi is a console text editor like Nano or Vim. You can open, search, edit and save files.
