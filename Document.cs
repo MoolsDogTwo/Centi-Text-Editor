@@ -11,6 +11,7 @@ public struct Position(int x, int y)
 public class Document
 {
     private static Position _pos = new(0, 0);
+    public static Position GetPos => _pos;
     public readonly Buffer Buffer;
 
     private enum MovementDirection
@@ -67,36 +68,23 @@ public class Document
             switch (direction)
             {
                 case MovementDirection.Left:
-                    if (RowX - 1 < 0 && RowY > 0)
-                    {
-                        RowY -= 1;
-                        RowX = Buffer.LineLength(RowY);
-                    }
-
+                    throw new NotImplementedException();
                     break;
                 case MovementDirection.Right:
-                    if (RowX + 1 > Buffer.LineLength(RowY) && RowY < Buffer.Length)
-                    {
-                        RowY += 1;
-                        RowX = 0;
-                    }
-
-                    break;
-                case MovementDirection.Up:
-                    if (RowY > 0)
-                    {
-                        --RowY;
-                        RowX = Math.Min(RowX, Buffer.LineLength(RowY));
-                    }
-                    
-                    break;
-                case MovementDirection.Down:
-                    if (RowY < Buffer.Length - 1)
+                    if (RowX + 1 > Buffer.LineLength(RowY) && RowY < Buffer.Length - 1)
                     {
                         ++RowY;
-                        RowX = Math.Min(RowX, Buffer.LineLength(RowY));
+                        RowX = 0;
                     }
-
+                    if (RowX < Buffer.LineLength(RowY))
+                        ++RowX;
+                    
+                    break;
+                case MovementDirection.Up:
+                    throw new NotImplementedException();
+                    break;
+                case MovementDirection.Down:
+                    throw new NotImplementedException();
                     break;
                 default:
                     throw new ArgumentOutOfRangeException(nameof(direction), direction, null);

@@ -11,7 +11,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efda859e-ef18-409e-a11a-a2ca6c497300" name="Changes" comment="" />
+    <list default="true" id="efda859e-ef18-409e-a11a-a2ca6c497300" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Centi Text Editor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Centi Text Editor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Document.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Document.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/centi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/centi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/centi.exe" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/centi.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net8.0/centi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net8.0/centi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/Centi Text Editor.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/Centi Text Editor.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/Centi Text Editor.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/Centi Text Editor.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/centi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/centi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/centi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/centi.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/ref/centi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/ref/centi.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net8.0/refint/centi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net8.0/refint/centi.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,36 +104,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.Centi Tests.executor&quot;: &quot;Run&quot;,
-    &quot;.NET Project.Centi Text Editor.executor&quot;: &quot;Debug&quot;,
-    &quot;2c623ff3-3f39-4686-8d8a-6306427e2169.executor&quot;: &quot;Debug&quot;,
-    &quot;7872d25d-24ed-425d-93a6-e2f994af74df.executor&quot;: &quot;Debug&quot;,
-    &quot;79b06b7a-215a-48f8-bcfd-44c3f5f08c09.executor&quot;: &quot;Debug&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Publish to folder.linux-x64.executor&quot;: &quot;Run&quot;,
-    &quot;Publish to folder.osx-x64.executor&quot;: &quot;Run&quot;,
-    &quot;Publish to folder.win-x64.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;1.1&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.ColorSchemeFont&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.Centi Tests.executor": "Run",
+    ".NET Project.Centi Text Editor.executor": "Run",
+    "2c623ff3-3f39-4686-8d8a-6306427e2169.executor": "Debug",
+    "7872d25d-24ed-425d-93a6-e2f994af74df.executor": "Debug",
+    "79b06b7a-215a-48f8-bcfd-44c3f5f08c09.executor": "Debug",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Publish to folder.linux-x64.executor": "Run",
+    "Publish to folder.osx-x64.executor": "Run",
+    "Publish to folder.win-x64.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "1.1",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.ColorSchemeFont",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Project.Centi Text Editor">
     <configuration name="linux-x64" type="DotNetFolderPublish" factoryName="Publish to folder">
       <riderPublish configuration="Release" delete_existing_files="true" include_native_libs_for_self_extract="true" platform="Any CPU" produce_single_file="true" target_folder="$PROJECT_DIR$/bin/Release/net8.0/linux-x64" target_framework="net8.0" uuid_high="2836866178081900269" uuid_low="-5378636130426460991">
@@ -262,7 +275,7 @@
       <workItem from="1779527358003" duration="5739000" />
       <workItem from="1779603880416" duration="3564000" />
       <workItem from="1779609793436" duration="6578000" />
-      <workItem from="1779686090029" duration="2244000" />
+      <workItem from="1779686090029" duration="6156000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -344,7 +357,15 @@
       <option name="project" value="LOCAL" />
       <updated>1779688068360</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Elaborating further with the program's current state">
+      <option name="closed" value="true" />
+      <created>1779688414205</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1779688414205</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -394,7 +415,8 @@
     <MESSAGE value="Fixed readme formatting" />
     <MESSAGE value="Seeing if the checkout worked" />
     <MESSAGE value="Rewrite begin" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rewrite begin" />
+    <MESSAGE value="Elaborating further with the program's current state" />
+    <option name="LAST_COMMIT_MESSAGE" value="Elaborating further with the program's current state" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -417,6 +439,19 @@
           </properties>
           <option name="timeStamp" value="5" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/../CentiTests/DocumentTests.cs</url>
+          <line>30</line>
+          <properties documentPath="C:\Users\Aleksandar Milovic\RiderProjects\CentiTests\DocumentTests.cs" containingFunctionPresentation="Method 'MoveToEndOfLineTest'">
+            <startOffsets>
+              <option value="695" />
+            </startOffsets>
+            <endOffsets>
+              <option value="930" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
